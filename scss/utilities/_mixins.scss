@@ -1,0 +1,8 @@
+
+/* ---- Button Hover Effect ---- */
+
+@mixin btn-theme ($btn-color) {
+    background: $btn-color;
+    &:hover {background: lighten($btn-color, 20%);
+    }
+}

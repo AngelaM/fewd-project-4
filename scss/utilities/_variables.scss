@@ -1,13 +1,28 @@
 
-$white: #fff;
-$color-accent: #58e1c1;
-$color-shade: #ccc;
-$color-text: #777;
-$color-bg: #51ddfc;
+/* ---- Color Variables ---- */
+
+$color-white: #fff;
+$color-black: #212323;
+$color-dark-teal: #316879;
+$color-light-teal: #d5e0e4;
+$color-dark-coral: #f47a60;
+$color-light-coral: #fbd7cf;
+$color-turquoise: #7fe7dc;
+$color-dark-turquoise: #58a19a;
+$color-grey: #ced7d8;
+$color-dark-grey: #3d4040;
+$color-dark-blue: #23374b;
+$color-dark-green: #336a69;
+$color-lime-green: #d4d790;
+$color-red: #ef4518;
+
+/* ---- Font Variables ---- */
 
 $font-stack: 'Lato', sans-serif;
 $font-light: 300;
 $font-bold: 700;
+
+/* ---- Media Variables ---- */
 
 $max-width: 1400px;
 

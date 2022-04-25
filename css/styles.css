@@ -454,6 +454,10 @@ a {
 }
 
 /* ---- Navigation ---- */
+html {
+  scroll-behavior: smooth;
+}
+
 .nav {
   padding-left: 0;
   flex-basis: 100%;
